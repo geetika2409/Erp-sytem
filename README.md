@@ -69,4 +69,18 @@ Display the essential features of a ERP System such total number of products, to
 . Ensure that you have Node.js and npm installed on your system before running the application.
 . The application has been tested on modern web browser - Google Chrome
 
+# SCREENSHOTS 
+
+# DASHBOARD
 <img width="943" alt="Dashboard" src="https://github.com/geetika2409/Erp-sytem/assets/124064719/4aa5f537-0588-46c4-b04b-6086b810a4c1">
+<img width="942" alt="DashboardSidebarClosed" src="https://github.com/geetika2409/Erp-sytem/assets/124064719/174d4127-c957-49e5-8266-957bcefad535">
+<img width="111" alt="MobileViewDashboard" src="https://github.com/geetika2409/Erp-sytem/assets/124064719/5d87b8c3-b022-4ceb-bb60-d63c69c21fd7">
+
+# PRODUCT PAGE
+<img width="952" alt="ProductPage" src="https://github.com/geetika2409/Erp-sytem/assets/124064719/73980366-4543-4e32-ab89-367ff03c818c">
+<img width="946" alt="ProductModal" src="https://github.com/geetika2409/Erp-sytem/assets/124064719/c2eefbcc-0c95-46ae-9a5b-467bd83947f8">
+
+# ORDER PAGE 
+<img width="934" alt="Orderdetail" src="https://github.com/geetika2409/Erp-sytem/assets/124064719/00b6eaca-c342-4447-89a6-2ba1af69e042">
+<img width ="662" alt="OrderPage" src="https://github.com/geetika2409/Erp-sytem/assets/124064719/10a3b3dc-2bd5-4548-b4f9-0f0148e2ea42">
+
