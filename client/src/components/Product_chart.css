@@ -1,0 +1,7 @@
+@media (min-width : 300px) {
+    .product-chart {
+        box-sizing: border-box;
+        padding: 0px;
+        min-width: 100vw;
+    }
+}

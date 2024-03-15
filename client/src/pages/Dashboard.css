@@ -1,0 +1,16 @@
+@media (max-width : 1000px) {
+    .main-dashboard{
+        display: flex;
+        flex-direction: column;
+    }
+    .main-sidebar {
+        box-sizing: border-box;
+        padding: 0;
+        width: 100vw;
+    }
+    .product-container {
+        display: flex;
+        flex-direction: column;
+        flex-flow: wrap;
+    }
+}

@@ -1,0 +1,38 @@
+@media (max-width: 1000px) {
+  .main-product {
+    display: flex;
+    flex-direction: column;
+    height: 340vh;
+  }
+  .main-sidebar {
+    box-sizing: border-box;
+    padding: 0;
+    width: 100vw;
+  }
+}
+
+@media (max-width: 768px) {
+  .product_button {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+  }
+  .add_product_button {
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+  }
+  .search_button {
+    width: 100%;
+    padding-right: 10;
+    padding-left: 10;
+  }
+  .add_product_button {
+    width: 120%; 
+    padding-right: 10;
+    padding-left: 10;
+  }
+}

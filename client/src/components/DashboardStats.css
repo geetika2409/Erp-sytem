@@ -1,0 +1,9 @@
+@media (max-width : 1000px) {
+    .main-container {
+        display: flex;
+        flex-direction: column;
+        flex-flow: wrap;
+        row-gap: 5;
+        padding-left: 20px;
+    }
+}

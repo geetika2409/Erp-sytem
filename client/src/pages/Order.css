@@ -1,0 +1,14 @@
+@media (max-width: 1000px) {
+  .main-order {
+    display: flex;
+    flex-direction: column;
+    height: 180vh;
+  }
+  .main-sidebar {
+    box-sizing: border-box;
+    padding: 0;
+    width: 100vw;
+    margin-bottom: 100;
+  }
+
+}

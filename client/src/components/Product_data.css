@@ -1,0 +1,13 @@
+@media (max-width : 566px) {
+    .main-product-data {
+        display: flex;
+        flex-direction: column;
+        flex-flow: wrap;
+    }
+    .product-container {
+        flex-flow: wrap;
+        display: flex;
+        flex-direction: row;
+        height: 100%;
+    }
+}
