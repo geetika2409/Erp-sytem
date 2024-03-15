@@ -69,3 +69,4 @@ Display the essential features of a ERP System such total number of products, to
 . Ensure that you have Node.js and npm installed on your system before running the application.
 . The application has been tested on modern web browser - Google Chrome
 
+<img width="943" alt="Dashboard" src="https://github.com/geetika2409/Erp-sytem/assets/124064719/4aa5f537-0588-46c4-b04b-6086b810a4c1">
